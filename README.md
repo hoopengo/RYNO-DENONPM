@@ -5,6 +5,14 @@ This is a pre-alpha denonpm version - Ryno. From ryno production
 ### 2. Go to C:\ and create dir C:\Ryno
 ### 3. Open cmd and write this ```setx path "%PATH%;C:\Ryno"```
 #### And this is work! Just write ```ryno --help``` in the console and watch on all commands (not supported now! Get [this](https://github.com/hoopengo/RYNO-DENONPM/blob/master/help/commands.md))
+#### ```package.json```:
+JSON | value | default
+--- | --- | --- |
+name | String | DENO |
+version | String | 0.0.0 |
+author | String | Ryno |
+flags | Object | "--allow-net" |
+scripts | Object | start |
 ## Fix bugs
 We have no bug, but if you find one, check support
 ### Support

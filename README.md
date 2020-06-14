@@ -4,7 +4,7 @@ This is a pre-alpha denonpm version - Ryno. From ryno production
 ### 1. Download [latest release](https://github.com/hoopengo/RYNO-DENONPM/releases)
 ### 2. Go to C:\ and create dir C:\Ryno
 ### 3. Open cmd and write this ```setx path "%PATH%;C:\Ryno"```
-#### And this is work! Just write ```ryno --help``` in the console and watch on all commands
+#### And this is work! Just write ```ryno --help``` in the console and watch on all commands (not supported now! Get [this](https://github.com/hoopengo/RYNO-DENONPM/blob/master/help/commands.md))
 ## Fix bugs
 We have no bug, but if you find one, check support
 ### Support
